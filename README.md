@@ -9,7 +9,7 @@ All files are accesable via port `8080` on muriquee.com.
 Images can be access via `//muriquee.com:8080/images` for example. You always have to use the full path.
 
 ## AB-Testing
-Create branches for different versions of the page. 
+For now create branches for different versions of the page. Later we may implement language based versions and refine the system accordingly.
 
 Example:
 
@@ -17,7 +17,7 @@ Example:
 master
 |-- version-a
 |-- version-b
-+-- version-C
++-- version-c
 ```
 
 etc.
